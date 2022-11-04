@@ -1,0 +1,13 @@
+# ninja log v5
+1346	1359	1667562133744567000	lib/libgtest_main.a	3afba9e0cf04e7d6
+0	172	1667562552708363469	build.ninja	e1a532e71d1bc326
+2	298	1667511918096378052	CMakeFiles/formal_prac.dir/solution.cpp.o	c9818f0d91825976
+2	255	1667381971981981174	CMakeFiles/formal_prac.dir/test.cpp.o	f697a7e15bd6822c
+1314	1346	1667562133731402000	lib/libgtest.a	32de267e28afbe9c
+2	439	1667562227555958171	test/CMakeFiles/runUnitTests.dir/parse_test.cpp.o	67fb9a4a67cae00a
+439	480	1667562227599768162	test/runUnitTests	30be200b55e34a18
+5	539	1667562132919078414	test/CMakeFiles/runUnitTests.dir/gtest.cpp.o	f87e03e39f870a6
+436	477	1667552482460069310	formal_prac	27952c393be56544
+6	1314	1667562133692782203	googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	6ba1f76907ad8679
+6	539	1667562132919077497	googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	a78e68565376026a
+6	436	1667552482417127161	CMakeFiles/formal_prac.dir/main.cpp.o	4f09086d10c7547a

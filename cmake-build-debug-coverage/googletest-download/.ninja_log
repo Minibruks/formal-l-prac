@@ -1,0 +1,19 @@
+# ninja log v5
+1	53	1667562553201689516	googletest-download-prefix/src/googletest-download-stamp/googletest-download-mkdir	deffe71ea56f196f
+1	53	1667562553201689516	/Users/pavel/Desktop/formal-prac/cmake-build-debug-coverage/googletest-download/googletest-download-prefix/src/googletest-download-stamp/googletest-download-mkdir	deffe71ea56f196f
+53	11467	1667562564616074405	googletest-download-prefix/src/googletest-download-stamp/googletest-download-download	3a03723790bf47ef
+53	11467	1667562564616074405	/Users/pavel/Desktop/formal-prac/cmake-build-debug-coverage/googletest-download/googletest-download-prefix/src/googletest-download-stamp/googletest-download-download	3a03723790bf47ef
+11467	11475	1667562564624236146	googletest-download-prefix/src/googletest-download-stamp/googletest-download-patch	9435470ab5cc4987
+11467	11475	1667562564624236146	/Users/pavel/Desktop/formal-prac/cmake-build-debug-coverage/googletest-download/googletest-download-prefix/src/googletest-download-stamp/googletest-download-patch	9435470ab5cc4987
+11475	11483	1667562564632244098	googletest-download-prefix/src/googletest-download-stamp/googletest-download-configure	8928cd70b70b7d77
+11475	11483	1667562564632244098	/Users/pavel/Desktop/formal-prac/cmake-build-debug-coverage/googletest-download/googletest-download-prefix/src/googletest-download-stamp/googletest-download-configure	8928cd70b70b7d77
+11483	11491	1667562564640241259	googletest-download-prefix/src/googletest-download-stamp/googletest-download-build	ae904f1917202484
+11483	11491	1667562564640241259	/Users/pavel/Desktop/formal-prac/cmake-build-debug-coverage/googletest-download/googletest-download-prefix/src/googletest-download-stamp/googletest-download-build	ae904f1917202484
+11491	11499	1667562564648338918	googletest-download-prefix/src/googletest-download-stamp/googletest-download-install	8bc24debbd7a7a3a
+11491	11499	1667562564648338918	/Users/pavel/Desktop/formal-prac/cmake-build-debug-coverage/googletest-download/googletest-download-prefix/src/googletest-download-stamp/googletest-download-install	8bc24debbd7a7a3a
+11499	11508	1667562564656787405	googletest-download-prefix/src/googletest-download-stamp/googletest-download-test	7d1c669e23688631
+11499	11508	1667562564656787405	/Users/pavel/Desktop/formal-prac/cmake-build-debug-coverage/googletest-download/googletest-download-prefix/src/googletest-download-stamp/googletest-download-test	7d1c669e23688631
+11508	11519	1667562564668423006	CMakeFiles/googletest-download-complete	afb103ef98edea29
+11508	11519	1667562564668423006	googletest-download-prefix/src/googletest-download-stamp/googletest-download-done	afb103ef98edea29
+11508	11519	1667562564668423006	/Users/pavel/Desktop/formal-prac/cmake-build-debug-coverage/googletest-download/CMakeFiles/googletest-download-complete	afb103ef98edea29
+11508	11519	1667562564668423006	/Users/pavel/Desktop/formal-prac/cmake-build-debug-coverage/googletest-download/googletest-download-prefix/src/googletest-download-stamp/googletest-download-done	afb103ef98edea29
