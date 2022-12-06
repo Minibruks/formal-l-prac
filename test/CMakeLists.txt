@@ -12,7 +12,8 @@ include(CTest)
 enable_testing()
 
 #set(gtest_disable_pthreads on) #needed in MinGW
-include(${REPO}/DownloadProject/DownloadProject.cmake)
+#include(${REPO}/DownloadProject/DownloadProject.cmake)
+include(/Users/pavel/Desktop/formal-git/DownloadProject/DownloadProject.cmake)
 download_project(
         PROJ                googletest
         GIT_REPOSITORY      https://github.com/google/googletest.git

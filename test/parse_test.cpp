@@ -1,5 +1,5 @@
-#include "../parse-expression.cpp"
-#include "../print_ans.cpp"
+#include "../algo/parse-expression.cpp"
+#include "../algo/print_ans.cpp"
 #include "gtest/gtest.h"
 
 TEST(ParseTest, StackSize) {
