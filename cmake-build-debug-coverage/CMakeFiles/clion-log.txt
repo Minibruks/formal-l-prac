@@ -1,0 +1,17 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja "-DCMAKE_CXX_FLAGS=-fprofile-instr-generate -fcoverage-mapping" "-DCMAKE_C_FLAGS=-fprofile-instr-generate -fcoverage-mapping" -G Ninja -S /Users/pavel/Desktop/formal-git -B /Users/pavel/Desktop/formal-git/cmake-build-debug-coverage
+-- Downloading/updating googletest
+CMake Deprecation Warning at CMakeLists.txt:4 (cmake_minimum_required):
+  Compatibility with CMake < 2.8.12 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/pavel/Desktop/formal-git/cmake-build-debug-coverage/googletest-download
+ninja: no work to do.
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/pavel/Desktop/formal-git/cmake-build-debug-coverage

@@ -1,0 +1,3 @@
+/Users/pavel/Desktop/formal-git/cmake-build-debug-coverage/googletest-download/CMakeFiles/googletest-download.dir
+/Users/pavel/Desktop/formal-git/cmake-build-debug-coverage/googletest-download/CMakeFiles/edit_cache.dir
+/Users/pavel/Desktop/formal-git/cmake-build-debug-coverage/googletest-download/CMakeFiles/rebuild_cache.dir
