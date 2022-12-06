@@ -1,0 +1,13 @@
+# Target labels
+ googletest-download
+# Source files and their labels
+/Users/pavel/Desktop/formal-git/cmake-build-debug-coverage/googletest-download/CMakeFiles/googletest-download
+/Users/pavel/Desktop/formal-git/cmake-build-debug-coverage/googletest-download/CMakeFiles/googletest-download.rule
+/Users/pavel/Desktop/formal-git/cmake-build-debug-coverage/googletest-download/CMakeFiles/googletest-download-complete.rule
+/Users/pavel/Desktop/formal-git/cmake-build-debug-coverage/googletest-download/googletest-download-prefix/src/googletest-download-stamp/googletest-download-build.rule
+/Users/pavel/Desktop/formal-git/cmake-build-debug-coverage/googletest-download/googletest-download-prefix/src/googletest-download-stamp/googletest-download-configure.rule
+/Users/pavel/Desktop/formal-git/cmake-build-debug-coverage/googletest-download/googletest-download-prefix/src/googletest-download-stamp/googletest-download-download.rule
+/Users/pavel/Desktop/formal-git/cmake-build-debug-coverage/googletest-download/googletest-download-prefix/src/googletest-download-stamp/googletest-download-install.rule
+/Users/pavel/Desktop/formal-git/cmake-build-debug-coverage/googletest-download/googletest-download-prefix/src/googletest-download-stamp/googletest-download-mkdir.rule
+/Users/pavel/Desktop/formal-git/cmake-build-debug-coverage/googletest-download/googletest-download-prefix/src/googletest-download-stamp/googletest-download-patch.rule
+/Users/pavel/Desktop/formal-git/cmake-build-debug-coverage/googletest-download/googletest-download-prefix/src/googletest-download-stamp/googletest-download-test.rule

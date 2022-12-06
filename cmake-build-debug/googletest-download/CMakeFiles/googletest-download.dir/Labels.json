@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/pavel/Desktop/formal-git/cmake-build-debug/googletest-download/CMakeFiles/googletest-download"
+		},
+		{
+			"file" : "/Users/pavel/Desktop/formal-git/cmake-build-debug/googletest-download/CMakeFiles/googletest-download.rule"
+		},
+		{
+			"file" : "/Users/pavel/Desktop/formal-git/cmake-build-debug/googletest-download/CMakeFiles/googletest-download-complete.rule"
+		},
+		{
+			"file" : "/Users/pavel/Desktop/formal-git/cmake-build-debug/googletest-download/googletest-download-prefix/src/googletest-download-stamp/googletest-download-build.rule"
+		},
+		{
+			"file" : "/Users/pavel/Desktop/formal-git/cmake-build-debug/googletest-download/googletest-download-prefix/src/googletest-download-stamp/googletest-download-configure.rule"
+		},
+		{
+			"file" : "/Users/pavel/Desktop/formal-git/cmake-build-debug/googletest-download/googletest-download-prefix/src/googletest-download-stamp/googletest-download-download.rule"
+		},
+		{
+			"file" : "/Users/pavel/Desktop/formal-git/cmake-build-debug/googletest-download/googletest-download-prefix/src/googletest-download-stamp/googletest-download-install.rule"
+		},
+		{
+			"file" : "/Users/pavel/Desktop/formal-git/cmake-build-debug/googletest-download/googletest-download-prefix/src/googletest-download-stamp/googletest-download-mkdir.rule"
+		},
+		{
+			"file" : "/Users/pavel/Desktop/formal-git/cmake-build-debug/googletest-download/googletest-download-prefix/src/googletest-download-stamp/googletest-download-patch.rule"
+		},
+		{
+			"file" : "/Users/pavel/Desktop/formal-git/cmake-build-debug/googletest-download/googletest-download-prefix/src/googletest-download-stamp/googletest-download-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"googletest-download"
+		],
+		"name" : "googletest-download"
+	}
+}
